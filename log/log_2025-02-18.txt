@@ -1,0 +1,56 @@
+2025-02-18 19:42:47.471034 inicio de proceso 
+************* 
+2025-02-18 19:42:47.471034 Conexión a página exitosa 
+************* 
+2025-02-18 19:42:47.471034 Captura con éxito 
+************* 
+2025-02-18 19:42:47.471034 lectura de correos exitosa 
+************* 
+2025-02-18 19:42:47.471034 lectura de asunto exitosa 
+************* 
+2025-02-18 19:42:47.471034 lectura de cuerpo de mensaje exitosa 
+************* 
+2025-02-18 19:42:47.471034 ('Error en envío de correo:', com_error(-2147221005, 'Cadena clase no válida', None, None)) 
+************* 
+2025-02-18 19:44:11.050274 inicio de proceso 
+************* 
+2025-02-18 19:44:11.050274 Conexión a página exitosa 
+************* 
+2025-02-18 19:44:11.050274 Captura con éxito 
+************* 
+2025-02-18 19:44:11.050274 lectura de correos exitosa 
+************* 
+2025-02-18 19:44:11.050274 lectura de asunto exitosa 
+************* 
+2025-02-18 19:44:11.050274 lectura de cuerpo de mensaje exitosa 
+************* 
+2025-02-18 19:44:11.050274 ('Error en envío de correo:', com_error(-2147221005, 'Cadena clase no válida', None, None)) 
+************* 
+2025-02-18 20:22:18.015316 inicio de proceso 
+************* 
+2025-02-18 20:22:18.015316 Conexión a página exitosa 
+************* 
+2025-02-18 20:22:18.015316 Captura con éxito 
+************* 
+2025-02-18 20:22:18.015316 lectura de correos exitosa 
+************* 
+2025-02-18 20:22:18.015316 lectura de asunto exitosa 
+************* 
+2025-02-18 20:22:18.015316 lectura de cuerpo de mensaje exitosa 
+************* 
+2025-02-18 20:22:18.015316 Error al abrir Outlook: (-2147221005, 'Cadena clase no válida', None, None) 
+************* 
+2025-02-18 20:36:12.794442 inicio de proceso 
+************* 
+2025-02-18 20:36:12.794442 Conexión a página exitosa 
+************* 
+2025-02-18 20:36:12.794442 Captura con éxito 
+************* 
+2025-02-18 20:36:12.794442 lectura de correos exitosa 
+************* 
+2025-02-18 20:36:12.794442 lectura de asunto exitosa 
+************* 
+2025-02-18 20:36:12.794442 lectura de cuerpo de mensaje exitosa 
+************* 
+2025-02-18 20:36:12.794442 Error al abrir Outlook: (-2147221005, 'Cadena clase no válida', None, None) 
+************* 
