@@ -1,0 +1,14 @@
+2025-02-16 17:04:58.469532 inicio de proceso 
+************* 
+2025-02-16 17:04:58.469532 Conexión a página exitosa 
+************* 
+2025-02-16 17:04:58.469532 Captura con éxito 
+************* 
+2025-02-16 17:04:58.469532 lectura de correos exitosa 
+************* 
+2025-02-16 17:04:58.469532 lectura de asunto exitosa 
+************* 
+2025-02-16 17:04:58.469532 lectura de cuerpo de mensaje exitosa 
+************* 
+2025-02-16 17:04:58.469532 ('Error en envío de correo:', com_error(-2147221005, 'Cadena clase no válida', None, None)) 
+************* 
